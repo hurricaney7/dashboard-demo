@@ -1,0 +1,9 @@
+table {
+    width: 100%;
+}
+.table-wrapper {
+    margin: 0 10%;
+}
+.table-header {
+    text-align: center;
+}
